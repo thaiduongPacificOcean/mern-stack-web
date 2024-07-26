@@ -6,8 +6,8 @@ Build server-side functions using NodeJS (ExpressJS).
 Responsive Web Design
 ## Technologies:
 Programming Languages: Javascript 
-Front-end: ReactJS
-Back-end: NodeJS (ExpressJS) , MongoDB, JWT
+Front-end: **ReactJS**
+Back-end: **NodeJS (ExpressJS) , MongoDB, JWT**
 ## Main UI 
 ![Screenshot 2024-07-25 223033](https://github.com/user-attachments/assets/02d41ed4-9a81-4b6b-8869-fce06ce864d5)
 
